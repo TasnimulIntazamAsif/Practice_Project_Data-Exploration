@@ -33,6 +33,10 @@ The project employs a range of techniques, including:
 
 ## Results and Insights
 
+![WhatsApp Image 2024-12-22 at 14 38 38_6df63a63](https://github.com/user-attachments/assets/87c83ed8-ed61-46b4-be17-51cc33684f64)
+
+
+
 The project provides a comprehensive analysis of the dataset, including:
 
 * Summary statistics and data distributions
