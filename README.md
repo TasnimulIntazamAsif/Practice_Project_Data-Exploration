@@ -1,4 +1,4 @@
-# Data Exploration Project
+# Diamonds Dataset Exploratory Data Analysis (EDA)
 
 THIS IS MY FIRST ANALYSIS ON EDA
 
