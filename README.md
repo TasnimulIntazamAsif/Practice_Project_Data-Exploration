@@ -6,6 +6,8 @@ This project is focused on exploring and analyzing a dataset to gain insights an
 
 ## Project Overview
 
+![Screenshot 2024-12-22 124123](https://github.com/user-attachments/assets/8e3da5ab-3b01-4b7a-8cb0-fc562a91374e)
+
 The project is implemented in a Jupyter Notebook, which provides an interactive environment for data exploration and visualization. The notebook is structured to follow a logical flow of data cleaning, feature engineering, visualization, and analysis.
 
 ## Goals and Objectives
